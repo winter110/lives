@@ -1,0 +1,305 @@
+用前置ip时，某些ip不支持回看
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226231/1.m3u8?$r7d 12M FHD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225804/1.m3u8?$r7d 5M FHD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225783/1.m3u8?$r7d SD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226239/1.m3u8?$r7d SD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226246/1.m3u8?$r7d SD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227003/1.m3u8?$r7d SD
+CCTV2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226224/1.m3u8?$r7d 12M FHD
+CCTV2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226195/1.m3u8?$r7d 4M FHD
+CCTV2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225762/1.m3u8?$r7d SD
+CCTV3,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226397/1.m3u8?$r7d 4M FHD
+CCTV4,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226223/1.m3u8?$r7d 12M FHD
+CCTV4,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226191/1.m3u8?$r7d 4M FHD
+CCTV4,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225781/1.m3u8?$r7d SD
+CCTV5,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226395/1.m3u8?$r7d 4M FHD
+CCTV6,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226011/1.m3u8?$r7d 4M FHD
+CCTV6,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226393/1.m3u8?$r7d 4M FHD
+CCTV7,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226192/1.m3u8?$r7d 4M FHD
+CCTV7,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225778/1.m3u8?$r7d SD
+CCTV7,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226248/1.m3u8?$r7d SD
+CCTV8,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226012/1.m3u8?$r7d 4M FHD
+CCTV8,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226391/1.m3u8?$r7d 4M FHD
+CCTV9,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226197/1.m3u8?$r7d 4M FHD
+CCTV9,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225758/1.m3u8?$r7d SD
+CCTV10,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226189/1.m3u8?$r7d 4M FHD
+CCTV10,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225777/1.m3u8?$r7d SD
+CCTV11,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226240/1.m3u8?$r7d 8M FHD
+CCTV11,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225776/1.m3u8?$r7d SD
+CCTV12,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226190/1.m3u8?$r7d 4M FHD
+CCTV12,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225775/1.m3u8?$r7d SD
+CCTV13,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226233/1.m3u8?$r7d 8M FHD
+CCTV13,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225774/1.m3u8?$r7d SD
+CCTV14,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226193/1.m3u8?$r7d 4M FHD
+CCTV14,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225784/1.m3u8?$r7d SD
+CCTV15,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225785/1.m3u8?$r7d 8M FHD
+CCTV16,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226921/1.m3u8?$r7d 4M FHD
+CCTV17,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226198/1.m3u8?$r7d 4M FHD
+CCTV17,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226208/1.m3u8?$r7d SD
+CCTV5+,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226221/1.m3u8?$r7d 12M FHD
+CCTV5+,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225761/1.m3u8?$r7d 4M FHD
+CGTN,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225745/1.m3u8?$r7d 8M FHD
+CGTN纪录,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227084/1.m3u8?$r7d FHD
+CGTN俄语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227078/1.m3u8?$r7d FHD
+CGTN法语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227058/1.m3u8?$r7d FHD
+CGTN阿拉伯语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227095/1.m3u8?$r7d FHD
+CGTN西班牙语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227098/1.m3u8?$r7d FHD
+中国教育1台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225753/1.m3u8?$r7d SD
+中国教育2台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225756/1.m3u8?$r7d SD
+中国教育3台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226226/1.m3u8?$r7d SD
+中国教育4台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226225/1.m3u8?$r7d SD
+湖南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226211/1.m3u8?$r7d 12M FHD
+湖南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225799/1.m3u8?$r7d 3M FHD
+湖南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225787/1.m3u8?$r7d SD
+东方卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226217/1.m3u8?$r7d 12M FHD
+东方卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225797/1.m3u8?$r7d 3M FHD
+东方卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225789/1.m3u8?$r7d SD
+江苏卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225800/1.m3u8?$r7d 3M FHD
+江苏卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226200/1.m3u8?$r7d 8M FHD
+江苏卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225746/1.m3u8?$r7d SD
+广东卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226216/1.m3u8?$r7d 12M FHD
+广东卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225803/1.m3u8?$r7d 3M FHD
+广东卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225757/1.m3u8?$r7d SD
+浙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226199/1.m3u8?$r7d 12M FHD
+浙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225798/1.m3u8?$r7d 3M FHD
+浙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225788/1.m3u8?$r7d SD
+北京卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226222/1.m3u8?$r7d 12M FHD
+北京卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225796/1.m3u8?$r7d 3M FHD
+北京卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225790/1.m3u8?$r7d SD
+深圳卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226205/1.m3u8?$r7d 12M FHD
+深圳卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225801/1.m3u8?$r7d 3M FHD
+深圳卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225752/1.m3u8?$r7d SD
+天津卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226204/1.m3u8?$r7d 12M FHD
+天津卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225765/1.m3u8?$r7d SD
+山东卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226209/1.m3u8?$r7d 12M FHD
+山东卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225771/1.m3u8?$r7d SD
+安徽卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226196/1.m3u8?$r7d 12M FHD
+安徽卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226203/1.m3u8?$r7d 3M FHD
+安徽卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225773/1.m3u8?$r7d SD
+江西卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225764/1.m3u8?$r7d SD
+黑龙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226215/1.m3u8?$r7d 12M FHD
+黑龙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226010/1.m3u8?$r7d 8M FHD HEVC
+黑龙江卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225802/1.m3u8?$r7d 5M FHD HEVC
+四川卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225768/1.m3u8?$r7d SD
+贵州卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225793/1.m3u8?$r7d SD
+湖北卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226194/1.m3u8?$r7d 12M FHD
+湖北卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226206/1.m3u8?$r7d 3M FHD
+湖北卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225760/1.m3u8?$r7d SD
+辽宁卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226210/1.m3u8?$r7d 12M FHD
+辽宁卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226201/1.m3u8?$r7d 3M FHD
+辽宁卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225772/1.m3u8?$r7d SD
+广西卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225770/1.m3u8?$r7d SD
+重庆卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226202/1.m3u8?$r7d 3M FHD
+重庆卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225791/1.m3u8?$r7d SD
+东南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225766/1.m3u8?$r7d SD
+吉林卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225792/1.m3u8?$r7d SD
+海南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225769/1.m3u8?$r7d SD
+云南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225751/1.m3u8?$r7d SD
+厦门卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226219/1.m3u8?$r7d SD
+河南卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225767/1.m3u8?$r7d SD
+河北卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225750/1.m3u8?$r7d SD
+陕西卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225821/1.m3u8?$r7d SD
+陕西卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226458/1.m3u8?$r7d SD
+山西卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225763/1.m3u8?$r7d SD
+甘肃卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225754/1.m3u8?$r7d SD
+宁夏卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225748/1.m3u8?$r7d SD
+青海卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225794/1.m3u8?$r7d SD
+西藏卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226212/1.m3u8?$r7d SD
+新疆卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225747/1.m3u8?$r7d SD
+内蒙古卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225786/1.m3u8?$r7d SD
+大湾区卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226218/1.m3u8?$r7d SD
+三沙卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227055/1.m3u8?$r7d SD
+农林卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226229/1.m3u8?$r7d SD
+延边卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226220/1.m3u8?$r7d SD
+兵团卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226214/1.m3u8?$r7d SD
+山东教育卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226238/1.m3u8?$r7d SD
+康巴卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226234/1.m3u8?$r7d SD
+安多卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226228/1.m3u8?$r7d SD
+卡酷少儿,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225743/1.m3u8?$r7d SD
+金鹰卡通,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225744/1.m3u8?$r7d SD
+优漫卡通,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225795/1.m3u8?$r7d SD
+哈哈炫动,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226213/1.m3u8?$r7d SD
+嘉佳卡通,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226227/1.m3u8?$r7d SD
+CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226462/1.m3u8?$r7d 8M FHD
+CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226465/1.m3u8?$r7d 8M FHD
+CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226463/1.m3u8?$r7d 8M FHD
+电视指南,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226987/1.m3u8?$r7d 8M FHD
+世界地理,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226947/1.m3u8?$r7d 8M FHD
+第一剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226959/1.m3u8?$r7d 8M FHD
+怀旧剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226972/1.m3u8?$r7d 8M FHD
+风云剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226950/1.m3u8?$r7d 8M FHD
+风云音乐,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226953/1.m3u8?$r7d 4M FHD
+风云足球,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226984/1.m3u8?$r7d 8M FHD
+央视台球,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226956/1.m3u8?$r7d 8M FHD
+高尔夫网球,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226978/1.m3u8?$r7d 8M FHD
+兵器科技,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226975/1.m3u8?$r7d 8M FHD
+女性时尚,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226969/1.m3u8?$r7d 8M FHD
+女性时尚,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226237/1.m3u8?$r7d SD
+央视文化精品,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226981/1.m3u8?$r7d 8M FHD
+老故事,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226236/1.m3u8?$r7d SD
+发现之旅,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226235/1.m3u8?$r7d SD
+家庭理财,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226244/1.m3u8?$r7d SD
+家庭理财,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226247/1.m3u8?$r7d SD
+财富天下,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226350/1.m3u8?$r7d SD
+茶频道,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226808/1.m3u8?$r7d 8M FHD
+快乐垂钓,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226805/1.m3u8?$r7d 8M FHD
+京视剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226242/1.m3u8?$r7d SD
+京视剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226243/1.m3u8?$r7d SD
+弈坛春秋,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226245/1.m3u8?$r7d SD
+置业频道,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226241/1.m3u8?$r7d SD
+欢笑剧场4K,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226582/1.m3u8?$r7d 12M UHD
+都市剧场,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226581/1.m3u8?$r7d 8M FHD
+乐游,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226580/1.m3u8?$r7d 8M FHD
+游戏风云,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226579/1.m3u8?$r7d 8M FHD
+金色学堂,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226994/1.m3u8?$r7d
+哒啵赛事,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226954/1.m3u8?$r7d 4M FHD
+哒啵电竞,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226951/1.m3u8?$r7d 4M FHD
+超级综艺,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226009/1.m3u8?$r7d
+怡伴健康,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226957/1.m3u8?$r7d 4M FHD
+纪实人文,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226230/1.m3u8?$r7d 4M FHD
+金鹰纪实,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226351/1.m3u8?$r7d 8M FHD
+陕西都市青春,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226358/1.m3u8?$r7d SD
+北京体育休闲,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226232/1.m3u8?$r7d 3M FHD
+第一财经,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226966/1.m3u8?$r7d 8M FHD
+BZTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227087/1.m3u8?$r7d SD
+CATV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226985/1.m3u8?$r7d SD
+CTV综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227007/1.m3u8?$r7d SD
+DFTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226962/1.m3u8?$r7d SD
+FGTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226990/1.m3u8?$r7d
+FPTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226968/1.m3u8?$r7d SD
+FXTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227089/1.m3u8?$r7d SD
+GOTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227056/1.m3u8?$r7d SD
+HSTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227054/1.m3u8?$r7d FHD
+HYTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227008/1.m3u8?$r7d SD
+JBTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226980/1.m3u8?$r7d SD
+JYTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226979/1.m3u8?$r7d SD
+LNTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226999/1.m3u8?$r7d SD
+LYTV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227072/1.m3u8?$r7d FHD
+RM新闻综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227025/1.m3u8?$r7d SD
+SYTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227071/1.m3u8?$r7d SD
+SY新闻综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226970/1.m3u8?$r7d SD
+WGTV综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227043/1.m3u8?$r7d SD
+YSTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227040/1.m3u8?$r7d SD
+ZZTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226988/1.m3u8?$r7d SD
+安康,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226385/1.m3u8?$r7d 7M FHD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225834/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225835/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225836/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225837/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225839/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225845/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225846/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225847/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225848/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225849/1.m3u8?$r7d HD
+百视通体育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225850/1.m3u8?$r7d HD
+宝鸡1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226383/1.m3u8?$r7d 7M FHD
+宝鸡2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226384/1.m3u8?$r7d 7M FHD
+城固,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226920/1.m3u8?$r7d 8M FHD
+淳化,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227080/1.m3u8?$r7d FHD
+地方1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227092/1.m3u8?$r7d FHD
+地方1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227051/1.m3u8?$r7d SD
+地方TV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227011/1.m3u8?$r7d SD
+地方公共,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227001/1.m3u8?$r7d FHD
+地方公共,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227060/1.m3u8?$r7d SD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226983/1.m3u8?$r7d FHD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226992/1.m3u8?$r7d FHD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227086/1.m3u8?$r7d FHD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226973/1.m3u8?$r7d SD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227000/1.m3u8?$r7d SD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227031/1.m3u8?$r7d SD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227034/1.m3u8?$r7d SD
+地方未知,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227074/1.m3u8?$r7d SD
+地方未知TV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226977/1.m3u8?$r7d SD
+地方新闻综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227090/1.m3u8?$r7d FHD
+地方综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227010/1.m3u8?$r7d SD
+地方综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227050/1.m3u8?$r7d SD
+定边融媒,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226997/1.m3u8?$r7d SD
+风尚购物,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226326/1.m3u8?$r7d 3M FHD
+凤凰中文,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226547/1.m3u8?$r7d SD
+凤凰资讯,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226546/1.m3u8?$r7d SD
+扶风,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227005/1.m3u8?$r7d
+佛坪,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226454/1.m3u8?$r7d 4M FHD
+富县综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227015/1.m3u8?$r7d SD
+韩城综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227107/1.m3u8?$r7d SD
+汉阴,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226995/1.m3u8?$r7d SD
+汉中1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226331/1.m3u8?$r7d 2M FHD
+汉中2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225990/1.m3u8?$r7d 2M FHD
+汉中3,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225991/1.m3u8?$r7d 2M FHD
+好享购物,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226018/1.m3u8?$r7d HD
+合阳,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227053/1.m3u8?$r7d FHD
+黑屏,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226974/1.m3u8?$r7d SD
+华阴,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227028/1.m3u8?$r7d SD
+黄龙,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227029/1.m3u8?$r7d SD
+佳县1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227059/1.m3u8?$r7d SD
+聚鲨环球精选,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226459/1.m3u8?$r7d SD
+聚鲨环球精选,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226461/1.m3u8?$r7d SD
+快乐购,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226353/1.m3u8?$r7d SD
+岚皋电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227057/1.m3u8?$r7d FHD
+礼泉影视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227068/1.m3u8?$r7d SD
+礼泉综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227065/1.m3u8?$r7d SD
+临潼电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227062/1.m3u8?$r7d SD
+留坝,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226000/1.m3u8?$r7d 2M FHD
+洛川融媒,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226996/1.m3u8?$r7d SD
+略阳1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226322/1.m3u8?$r7d SD
+眉县新闻综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227069/1.m3u8?$r7d FHD
+米脂广播电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226964/1.m3u8?$r7d SD
+勉县综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226952/1.m3u8?$r7d 8M SD
+南郑1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226955/1.m3u8?$r7d SD
+宁强1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226390/1.m3u8?$r7d 2M FHD
+宁陕电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226998/1.m3u8?$r7d FHD
+平利电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227016/1.m3u8?$r7d SD
+蒲城综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226976/1.m3u8?$r7d SD
+岐山,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226982/1.m3u8?$r7d
+千阳,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226945/1.m3u8?$r7d 8M FHD
+乾县电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227066/1.m3u8?$r7d SD
+陕西八套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226364/1.m3u8?$r7d
+陕西公共,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226361/1.m3u8?$r7d SD
+陕西乐家购物,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226362/1.m3u8?$r7d SD
+陕西七套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226363/1.m3u8?$r7d
+陕西三套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226359/1.m3u8?$r7d
+陕西四套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226360/1.m3u8?$r7d
+陕西新闻资讯,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226357/1.m3u8?$r7d SD
+商洛1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226378/1.m3u8?$r7d 2M FHD
+商洛公共,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227006/1.m3u8?$r7d FHD
+商南1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226986/1.m3u8?$r7d SD
+设备检修,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227075/1.m3u8?$r7d FHD
+神木1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226993/1.m3u8?$r7d
+石泉电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226965/1.m3u8?$r7d
+太白电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227083/1.m3u8?$r7d FHD
+铜川1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226379/1.m3u8?$r7d SD
+铜川2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226380/1.m3u8?$r7d SD
+渭南,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226376/1.m3u8?$r7d 4M SD
+吴起电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226967/1.m3u8?$r7d
+西安城市,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226367/1.m3u8?$r7d SD
+西安教育,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226371/1.m3u8?$r7d SD
+西安商务资讯,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226368/1.m3u8?$r7d SD
+西安丝路,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226370/1.m3u8?$r7d SD
+西安新闻综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226366/1.m3u8?$r7d SD
+西安影视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226369/1.m3u8?$r7d SD
+西乡,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226556/1.m3u8?$r7d 5M FHD
+咸阳综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226372/1.m3u8?$r7d SD
+信号测试1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226337/1.m3u8?$r7d 6M FHD
+信号测试2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226338/1.m3u8?$r7d 6M FHD
+兴平融媒,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226971/1.m3u8?$r7d SD
+旬邑,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227077/1.m3u8?$r7d FHD
+延安1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226374/1.m3u8?$r7d
+延安2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226375/1.m3u8?$r7d
+延川融媒,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227064/1.m3u8?$r7d SD
+延长电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227021/1.m3u8?$r7d SD
+杨凌,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227063/1.m3u8?$r7d SD
+洋县,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226938/1.m3u8?$r7d 4M FHD
+宜川电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227019/1.m3u8?$r7d SD
+榆林1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226377/1.m3u8?$r7d SD
+榆阳1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227017/1.m3u8?$r7d FHD
+予长电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227061/1.m3u8?$r7d SD
+柞水电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227026/1.m3u8?$r7d SD
+镇安综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227022/1.m3u8?$r7d SD
+镇巴,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226457/1.m3u8?$r7d 2M FHD
+镇坪综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227032/1.m3u8?$r7d FHD
+志丹广播电视台,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226989/1.m3u8?$r7d FHD
+子洲TV,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227104/1.m3u8?$r7d FHD
+紫阳综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227002/1.m3u8?$r7d
+央广购物,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226032/1.m3u8?$r7d SD
+陕西卫视片段,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226388/1.m3u8?$r7d SD
+陕西卫视片段,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226389/1.m3u8?$r7d SD
